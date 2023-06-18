@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+
+form{
+    color: #e9e218;
+}
+
+.main-login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    background-color: #424242;
+}
+
+.left-login{
+    width: 50wh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn .bx{
+    font-size: 10rem;
+    color: #eeef3b;
+}
+
+.btn .bx:hover{
+    transform: rotate(360deg); 
+    transition: 6s;
+    color: #f0f014;
+}
+
+.right-login{
+    width: 50wh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.card-info{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-direction: column;
+    padding: 30px 35px;
+    border-radius: 20px;
+}
+
+.card-info > h1{
+    color: #f2ec40;
+    font-weight: 800;
+    margin: 0;
+    
+}
+
+.textfield{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0px;
+    width: 100%;
+}
+
