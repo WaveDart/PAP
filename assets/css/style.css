@@ -22,7 +22,7 @@ nav{
     background-color: bisque;
 }
 
-.search{
-    display: flex;
-    
+nav input{
+    margin: 4.5%;
+    justify-items: right;
 }
