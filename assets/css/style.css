@@ -14,12 +14,15 @@ header{
     background-color: red;
 }
 
+
+
 nav{
-    display: flex;
+    justify-self: center;
+    width: 100%;
+    background-color: bisque;
 }
 
-nav .search{
-    height: 40%;
-    text-align: right;
+.search{
+    display: flex;
     
 }
