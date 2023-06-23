@@ -22,7 +22,6 @@ nav{
     background-color: bisque;
 }
 
-nav input{
-    margin: 4.5%;
-    justify-items: right;
+.search{
+    text-align: right;
 }
